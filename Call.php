@@ -1,11 +1,11 @@
 []==================================[]
 []             SpamCall  	    []
 []==================================[]
-[] => Author   : Bl4ck_Dr460n       []
-[] => Nama     : Billal		    []
+[] => Author   : Cyber Limit       []
+[] => Nama     : Hikmal		    []
 [] => Youtube  : -		    []
-[] => Facebook : Muhamaf Billal	    []
-[] => Intagram : @billalfauzan 	    []
+[] => Facebook : Wisnu	           []
+[] => Intagram : @Wisnu_eg 	    []
 [] => github   : -		    []
 []==================================[]
 [] Gunakan Dengan Bijak		    []
@@ -123,15 +123,15 @@ echo " \n";                                                                     
  ___) | |_) | (_| | | | | | | |__| (_| | | |
 |____/| .__/ \__,_|_| |_| |_|\____\__,_|_|_|
       |_|                              \n";
-echo "  Code By Bl4ck_Dr460n   [] v.2.3\n";
+echo "  Code By Cyber Limit   [] v.2.3\n";
 echo "\n";
 echo " \n";
 echo "[]==================================[]
-[] => Author   : Bl4ck_Dr460n       []
-[] => Nama     : Billal             []
+[] => Author   : Cyber Limit        []
+[] => Nama     : Hikmal             []
 [] => Youtube  : -                  []
-[] => Facebook : Muhamaf Billal     []
-[] => Intagram : @billalfauzan      []
+[] => Facebook : wisnu              []
+[] => Intagram : @wisnu_eg          []
 [] => github   : -                  []
 []==================================[]
 []    Gunakan Dengan Bijak          []
